@@ -11,7 +11,7 @@ This project is created to understand and practice **state management in React**
 A simple React project where multiple **cards** are created using **reusable components**.  
 Card data is dynamically passed using **props**, and styling is done with **Tailwind CSS**.
 
-## 🚀 Key Learnings
+##  Key Learnings :
 
 - Using **props** to pass dynamic data
 - Creating **reusable & modular components**

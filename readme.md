@@ -4,6 +4,12 @@
 
 A simple and interactive **Counter Application** built using **React + Vite**.  
 This project is created to understand and practice **state management in React** using the `useState` hook.
+##  Features :
+
+- ➕ Increase the counter value
+- ➖ Decrease the counter value
+- ⚡ Fast development with Vite
+- 🎯 Beginner-friendly and clean UI
 
 ---
 # PROJECT-2 : React Cards App (Props & Tailwind)

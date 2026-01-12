@@ -19,3 +19,15 @@ Card data is dynamically passed using **props**, and styling is done with **Tail
 - Clean component structure in React
 
 ---
+# project - 3 :  Background Changer App
+
+A basic React application built with **Vite** to understand **state management** in React.  
+The app allows users to change the **background color** dynamically using React state.
+
+##  Key Learnings :
+
+- Managing state using `useState`
+- Updating UI based on state changes
+- Handling button click events
+- Building a simple interactive UI with React
+---

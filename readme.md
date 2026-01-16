@@ -4,6 +4,12 @@
 
 A simple and interactive **Counter Application** built using **React + Vite**.  
 This project is created to understand and practice **state management in React** using the `useState` hook.
+##  Features :
+
+- ➕ Increase the counter value
+- ➖ Decrease the counter value
+- ⚡ Fast development with Vite
+- 🎯 Beginner-friendly and clean UI
 
 ---
 # PROJECT-2 : React Cards App (Props & Tailwind)
@@ -18,4 +24,16 @@ Card data is dynamically passed using **props**, and styling is done with **Tail
 - Tailwind CSS **configuration & utility classes**
 - Clean component structure in React
 
+---
+# project - 3 :  Background Changer App
+
+A basic React application built with **Vite** to understand **state management** in React.  
+The app allows users to change the **background color** dynamically using React state.
+
+##  Key Learnings :
+
+- Managing state using `useState`
+- Updating UI based on state changes
+- Handling button click events
+- Building a simple interactive UI with React
 ---
